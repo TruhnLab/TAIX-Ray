@@ -1,27 +1,21 @@
-### 🛡️ Data Usage Agreement 
+### Data Usage Notice
 
-By accessing and using the dataset, you agree to the following terms and conditions:
+The TAIX-Ray dataset is released under the **Creative Commons Attribution 4.0 International License (CC-BY-4.0)**. The license text governs your rights and obligations; this notice highlights ethical expectations and practical considerations specific to medical imaging data. Nothing in this notice restricts the rights granted by CC-BY-4.0.
 
-1. **Purpose of Use**  
-   This dataset is provided **solely for research and educational purposes**. Any commercial use is strictly prohibited without explicit written permission from the dataset creators.
+1. **Attribution**
+   As required by CC-BY-4.0, any use, redistribution, or derivative work must cite the original source as specified in the dataset documentation.
 
-2. **Ethical Use**  
-   You agree to use this dataset in an ethical manner, respecting human dignity, privacy, and all applicable laws and regulations. The data **must not be used to attempt to identify individuals** or for any discriminatory or harmful purposes.
+2. **Ethical Use**
+   Users are expected to handle the data in accordance with accepted research ethics and applicable laws. The dataset must not be used to attempt to identify individuals, nor for discriminatory or harmful purposes.
 
-3. **Data Privacy**  
-   This dataset may contain sensitive medical information. Although all personally identifiable information (PII) has been removed or anonymized to the best extent possible, you acknowledge your responsibility in ensuring that data remains de-identified and is not re-identified.
+3. **De-identification and Re-identification Risk**
+   All direct identifiers have been removed and patient and physician IDs have been hashed. Despite these measures, no de-identification process can eliminate all residual risk. Users acknowledge a responsibility not to attempt re-identification of individuals, whether alone or by linkage with other data sources.
 
-4. **Compliance with Regulations**  
-   You agree to comply with all applicable data protection regulations such as **HIPAA**, **GDPR**, or local equivalents.
+4. **Regulatory Compliance**
+   Users remain responsible for complying with all data-protection and research-ethics regulations applicable to their jurisdiction and institution (e.g., GDPR, HIPAA, local IRB policies).
 
-5. **No Redistribution**  
-   You shall not share, redistribute, or publish the dataset in full or in part without explicit consent from the dataset authors.
+5. **Clinical Use Disclaimer**
+   The dataset and any models trained on it are provided for research and educational purposes. They are not medical devices and must not be used for clinical decision-making without appropriate regulatory approval and validation.
 
-6. **Attribution**  
-   Any published work or presentation using this dataset must **cite the original source** as specified in the dataset documentation.
-
-7. **Indemnity**  
-   You agree to hold harmless and indemnify the dataset providers from and against any claims arising from your use of the dataset.
-
-8. **Revocation of Access**  
-   The dataset creators reserve the right to revoke access to the dataset at any time, for any reason, including violations of this agreement.
+6. **No Warranty**
+   The dataset is provided "as is" without warranty of any kind. The dataset providers are not liable for any claims or damages arising from its use, to the extent permitted by law.

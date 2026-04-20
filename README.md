@@ -11,7 +11,7 @@ Please see our paper for a detailed description:  [TAIX-Ray Paper](https://arxiv
 ## Setup
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-repo/TAIX-Ray.git
+git clone https://github.com/TruhnLab/TAIX-Ray.git
 cd TAIX-Ray
 ```
 
