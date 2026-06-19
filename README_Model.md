@@ -6,7 +6,7 @@ This repository provides two trained deep learning models for classifying X-ray 
 
 2. Ordinal Classification Model - Predicts severity levels based on ordinal categories.
 
-Please see our paper for a detailed description:  [TAIX-Ray Paper](https://arxiv.org/abs/your-paper-link)
+Please see our paper for a detailed description:  [TAIX-Ray Paper](https://doi.org/10.1038/s41597-026-07271-7)
 
 
 <br>
